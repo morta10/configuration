@@ -9,7 +9,7 @@ Add any new changes to the top(right below this line).
     Use `":mongodb_cr"` for mongo 2.6.
 
 - Docker: edxapp
-  - Disable install of private requirements for docker devstack. 
+  - Disable install of private requirements for docker devstack.
 
 - Roles: edx_django_service, registrar, enterprise_catalog
   - Moved celery worker supervisor config files/scripts into edx_django_service
